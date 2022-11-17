@@ -15,6 +15,9 @@ public class Mavenproject1 {
         System.out.println("Hello World");
         System.out.println("Hello World2!");
         
-        //Test 1
+        //Test 2
+        int a = 1;
+        int b = 5;
+        System.out.println(a + b);
     }
 }

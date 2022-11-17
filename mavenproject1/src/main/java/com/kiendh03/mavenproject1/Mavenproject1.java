@@ -17,7 +17,9 @@ public class Mavenproject1 {
         //Test 2
         int a = 1;
         int b = 5;
+
         if (a > 0 && b > 0) {
+
             System.out.println("Result: " + a + b);
         }
     }
